@@ -1,4 +1,4 @@
-# Issa Compass — Vibe Hackathon
+# Issa Compass — Data Visualization Hackathon
 
 **Issa Compass** is a software company making living anywhere in the world as easy as ordering online — starting with visas. [More about us](https://www.issacompass.com/about)
 
