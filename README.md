@@ -92,11 +92,11 @@ For these, the interesting part is how the tool reasons about *which* signals to
 
 ## Evaluation
 
-**Speed**, **product quality**, and **did you build something we haven't seen before**.
+Speed, product quality, and _"Did you build something we haven't seen from any other candidate before?"_
 
 Less than 2–3% of candidates who complete this get an offer. They build something that makes the other submissions look like prototypes. The delta is your technical and product judgment: knowing what to cut, what to polish, and where to do something unexpected.
 
-Ask yourself: would someone at Issa actually open this instead of asking their analyst? Is there a moment in the demo where the response surprises you in a good way?
+Ask yourself: would someone at Issa actually open this instead of asking their analyst? Is there a moment in the demo where the response genuinely surprises and wows you?
 
 That's what we're looking for.
 
