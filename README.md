@@ -65,7 +65,7 @@ How has client satisfaction trended week over week this quarter?
 
 ### Business-level investigation
 
-The user knows something is wrong but doesn't know where to look. The tool needs to decompose the question, run the right sub-queries, and come back with a diagnosis — not just data.
+The user knows something is wrong but doesn't know where to look. The tool needs to decompose the question, run the right sub-queries, and come back with a diagnosis.
 
 ```
 Why did our revenue go down in March?
@@ -94,7 +94,7 @@ For these, the interesting part is how the tool reasons about *which* signals to
 
 **Speed**, **product quality**, and **did you build something we haven't seen before**.
 
-2–3% of candidates who complete this get an offer. The ones who do don't just build a working demo — they build something that makes the other submissions look like prototypes. The delta is usually judgment: knowing what to cut, what to polish, and where to do something unexpected.
+Less than 2–3% of candidates who complete this get an offer. They build something that makes the other submissions look like prototypes. The delta is your technical and product judgment: knowing what to cut, what to polish, and where to do something unexpected.
 
 Ask yourself: would someone at Issa actually open this instead of asking their analyst? Is there a moment in the demo where the response surprises you in a good way?
 
@@ -106,6 +106,6 @@ That's what we're looking for.
 
 - Hosted, working demo (not localhost)
 - Repo link with a clean README explaining your architecture decisions
-- A short Loom or screen recording walking through your best prompts — especially the business-level ones
+- A short Loom or screen recording walking through your best prompts, especially the business-level ones
 
-Good luck.
+Good luck and have fun!
