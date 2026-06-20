@@ -12,7 +12,7 @@ Issa's team runs 100K+ client conversations — visa consultations, document rev
 
 **Build the thing that replaces that.** A natural-language interface where any team member — ops, sales, leadership — can ask a business question and get back the right chart, table, or diagnosis. No SQL. No waiting.
 
-The north star: it should feel less like a query tool and more like a sharp analyst who already knows the business.
+This project is representative of the work at Issa. You'll be building real product, on real data, for real users inside the company, from day 0. What you see here gives you a sense of what the job actually looks like, so we hope you have fun!
 
 ---
 
@@ -105,7 +105,8 @@ That's what we're looking for.
 ## Submission
 
 - Hosted, working demo (not localhost)
-- Repo link with a clean README explaining your architecture decisions
+- Repo link with a clean README explaining your (1) process, (2) architecture decisions, and (3) time it took you to complete
 - A short Loom or screen recording walking through your best prompts, especially the business-level ones
+- Share the above to recruiting.team@issacompass.com and aaron@issacompass.com please
 
 Good luck and have fun!
