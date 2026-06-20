@@ -8,7 +8,7 @@ You'll be working under **[Aaron Yip](https://www.linkedin.com/in/aaron-builds)*
 
 ## The Brief
 
-Issa's team runs hundreds of client conversations — visa consultations, document reviews, status updates. That data lives in Postgres. Right now, getting anything meaningful out of it means writing SQL or waiting for a report.
+Issa's team runs 100K+ client conversations — visa consultations, document reviews, status updates. That data lives in Postgres. Right now, getting anything meaningful out of it means writing SQL or waiting for a report.
 
 **Build the thing that replaces that.** A natural-language interface where any team member — ops, sales, leadership — can ask a business question and get back the right chart, table, or diagnosis. No SQL. No waiting.
 
