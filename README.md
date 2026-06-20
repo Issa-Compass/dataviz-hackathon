@@ -1,6 +1,6 @@
 # Issa Compass — Vibe Hackathon
 
-**Issa Compass** is a software company making relocation as easy as ordering from Grab — starting with visas. [About us](https://www.issacompass.com/about)
+**Issa Compass** is a software company making living anywhere in the world as easy as ordering online — starting with visas. [More about us](https://www.issacompass.com/about)
 
 You'll be working under **[Aaron Yip](https://www.linkedin.com/in/aaron-builds)** — 20 years in Silicon Valley across games, self-driving cars, and consumer tech (Apple industry advisor, Google App of the Year). Startup builder. Guest lecturer at Stanford and Chulalongkorn.
 
